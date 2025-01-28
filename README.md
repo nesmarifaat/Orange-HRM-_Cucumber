@@ -1,7 +1,6 @@
 # Orange HRM-Cucumber.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ![Orange HRM - Cucumber](https://images.squarespace-cdn.com/content/v1/5e51872712c0b73372f8fa1a/1669792969045-SONCS4TICT0QU8RI1XYK/an+overview+of+cucumber+automation+testing+by+TestEvolve.jpg)
 =======
 
